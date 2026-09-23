@@ -2,7 +2,7 @@
 
 Use this repository to run and edit the app locally, then publish changes back through supabase.
 
-Any change pushed to the repo will also be reflected in the supabase Builder.
+Any change pushed to the repo will also be reflected  inn the supbase builder.
 
 ## Prerequisites
 
