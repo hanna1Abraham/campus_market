@@ -10,6 +10,7 @@
       "enum": [
         "Local Producer",
         "Wholesaler",
+        "investors",
         "Student Seller",
         "Merchant"
       ]
